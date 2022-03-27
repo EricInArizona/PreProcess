@@ -1,0 +1,33 @@
+buildfile	/home/Eric/PreProcess/BuildProj.sh
+executablefile	/home/Eric/PreProcess/PreProc
+projectdirectory	/home/Eric/PreProcess
+recentfile1	/home/Eric/PreProcess/MainApp.h
+recentfile2	/home/Eric/PreProcess/MainApp.cpp
+recentfile3	/home/Eric/PreProcess/Markers.h
+recentfile4	/home/Eric/Docs/Notes.txt
+recentfile5	/home/Eric/PreProcess/BuildProj.sh
+recentfile6	/home/Eric/PreProcess/CppResWords.h
+recentfile7	
+recentfile8	
+recentfile9	
+recentfile10	
+recentfile11	
+recentfile12	
+recentfile13	
+recentfile14	
+recentfile15	
+recentfile16	
+recentfile17	
+recentfile18	
+recentfile19	
+recentfile20	
+recentfile21	
+recentfile22	
+recentfile23	
+recentfile24	
+recentfile25	
+recentfile26	
+recentfile27	
+recentfile28	
+recentfile29	
+recentfile30	
